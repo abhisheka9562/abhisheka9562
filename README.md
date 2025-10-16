@@ -1,6 +1,1 @@
-My Name is Abhishek.
-I am final year BTech Computer Science student.
-I am intrested in Comptetive coding and Programming in Java
-
-
-
+Computer Science graduate with a strong interest in software development. Gained hands-on experience in Java, Spring Boot, Flutter, and deep learning through various projects. A dedicated problem solver with over 150 problems solved on LeetCode. Seeking opportunities to learn new technologies and apply them to real-world problems.
